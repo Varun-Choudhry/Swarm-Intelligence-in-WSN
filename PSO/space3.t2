@@ -1,0 +1,196 @@
+##################Training Start##################
+
+scene = space3
+
+##########################################################################
+                           TEST = 1                                    
+##########################################################################
+PSO Settings
+Number of Particles = 30.000000
+Maximum number of steps = 300.000000
+Problem Dimensions= 20.000000
+Coeficient C1 = 2.000000
+Coeficient C2 = 2.000000
+Inertia (wmax) = 0.900000 / (wmin) = 0.400000 
+
+pMax = 0.000000 / pMin = -30.000000
+vMax = 5.000000 / vMin = -5.000000
+Iteration  -    1 | sum = Inf
+Iteration  -   50 | sum = -0.076174
+Iteration  -  100 | sum = -1.722162
+Iteration  -  150 | sum = -2.158213
+Iteration  -  200 | sum = -2.277002
+Iteration  -  250 | sum = -2.550513
+Iteration  -  300 | sum = -2.628810
+
+
+Power of each node
+
+Node 1= -17.190282 
+Node 2= -20.952795 
+Node 3= -15.884773 
+Node 4= -24.511691 
+Node 5= -18.323654 
+Node 6= -12.577567 
+Node 7= -17.258929 
+Node 8= -16.266156 
+Node 9= -13.850534 
+Node 10= -21.083445 
+Node 11= -19.727409 
+Node 12= -20.070209 
+Node 13= -12.079203 
+Node 14= -13.430035 
+Node 15= -27.101931 
+Node 16= -10.056035 
+Node 17= -21.316263 
+Node 18= -16.921000 
+Node 19= -16.288584 
+Node 20= -13.154641 
+
+
+Time spent: 2.052134e+00
+
+##########################################################################
+                           TEST = 2                                    
+##########################################################################
+PSO Settings
+Number of Particles = 30.000000
+Maximum number of steps = 300.000000
+Problem Dimensions= 20.000000
+Coeficient C1 = 2.000000
+Coeficient C2 = 2.000000
+Inertia (wmax) = 0.900000 / (wmin) = 0.400000 
+
+pMax = 0.000000 / pMin = -30.000000
+vMax = 5.000000 / vMin = -5.000000
+Iteration  -    1 | sum = Inf
+Iteration  -   50 | sum = Inf
+Iteration  -  100 | sum = -1.364852
+Iteration  -  150 | sum = -2.360665
+Iteration  -  200 | sum = -2.554712
+Iteration  -  250 | sum = -2.793431
+Iteration  -  300 | sum = -2.795373
+
+
+Power of each node
+
+Node 1= -14.892234 
+Node 2= -17.178000 
+Node 3= -16.066962 
+Node 4= -17.890823 
+Node 5= -17.826543 
+Node 6= -12.647652 
+Node 7= -13.202193 
+Node 8= -16.288606 
+Node 9= -21.199819 
+Node 10= -17.972002 
+Node 11= -19.145353 
+Node 12= -14.258034 
+Node 13= -20.157225 
+Node 14= -17.991059 
+Node 15= -22.040944 
+Node 16= -10.003631 
+Node 17= -15.575505 
+Node 18= -24.058993 
+Node 19= -16.288605 
+Node 20= -15.146963 
+
+
+Time spent: 1.848697e+00
+
+##########################################################################
+                           TEST = 3                                    
+##########################################################################
+PSO Settings
+Number of Particles = 30.000000
+Maximum number of steps = 300.000000
+Problem Dimensions= 20.000000
+Coeficient C1 = 2.000000
+Coeficient C2 = 2.000000
+Inertia (wmax) = 0.900000 / (wmin) = 0.400000 
+
+pMax = 0.000000 / pMin = -30.000000
+vMax = 5.000000 / vMin = -5.000000
+Iteration  -    1 | sum = Inf
+Iteration  -   50 | sum = Inf
+Iteration  -  100 | sum = -1.929868
+Iteration  -  150 | sum = -2.462185
+Iteration  -  200 | sum = -2.515155
+Iteration  -  250 | sum = -2.594530
+Iteration  -  300 | sum = -2.628902
+
+
+Power of each node
+
+Node 1= -13.808733 
+Node 2= -21.339757 
+Node 3= -14.711900 
+Node 4= -14.425320 
+Node 5= -16.443019 
+Node 6= -12.591455 
+Node 7= -14.194485 
+Node 8= -16.284322 
+Node 9= -14.661942 
+Node 10= -20.203452 
+Node 11= -22.615484 
+Node 12= -18.093434 
+Node 13= -16.160570 
+Node 14= -18.714821 
+Node 15= -17.805900 
+Node 16= -10.267803 
+Node 17= -18.773109 
+Node 18= -15.877754 
+Node 19= -16.282226 
+Node 20= -19.163573 
+
+
+Time spent: 1.748116e+00
+
+##########################################################################
+                           TEST = 4                                    
+##########################################################################
+PSO Settings
+Number of Particles = 30.000000
+Maximum number of steps = 300.000000
+Problem Dimensions= 20.000000
+Coeficient C1 = 2.000000
+Coeficient C2 = 2.000000
+Inertia (wmax) = 0.900000 / (wmin) = 0.400000 
+
+pMax = 0.000000 / pMin = -30.000000
+vMax = 5.000000 / vMin = -5.000000
+Iteration  -    1 | sum = Inf
+Iteration  -   50 | sum = -0.084205
+Iteration  -  100 | sum = -2.055917
+Iteration  -  150 | sum = -2.301349
+Iteration  -  200 | sum = -3.050184
+Iteration  -  250 | sum = -3.159086
+Iteration  -  300 | sum = -3.182894
+
+
+Power of each node
+
+Node 1= -17.175428 
+Node 2= -15.517851 
+Node 3= -16.100253 
+Node 4= -21.562673 
+Node 5= -22.509069 
+Node 6= -12.647725 
+Node 7= -18.186467 
+Node 8= -14.350678 
+Node 9= -21.088564 
+Node 10= -21.255147 
+Node 11= -24.802997 
+Node 12= -26.109440 
+Node 13= -16.763486 
+Node 14= -21.340092 
+Node 15= -15.719166 
+Node 16= -10.184943 
+Node 17= -12.920393 
+Node 18= -15.611901 
+Node 19= -16.236819 
+Node 20= -18.090595 
+
+
+Time spent: 1.752634e+00
+

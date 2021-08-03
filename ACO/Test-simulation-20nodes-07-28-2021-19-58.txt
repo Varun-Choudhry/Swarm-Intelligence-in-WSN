@@ -1,0 +1,5 @@
+|Node No|         |Test Scene|               |Hops|       |Packets sent|          |Dead node|
+    20                    2                    4                 6454                    6
+    20                    3                    5                12856                    5
+    20                    4                    5                13222                    9
+    20                    5                    6                13313                   19
